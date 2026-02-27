@@ -42,7 +42,7 @@ Demonstrates the classic water-filling algorithm, modified with a strict QoS con
 > *(Replace the path below with your actual image file path)*
 > 
 > ![Water-Filling](images/cell1_waterfilling_1.png)
-> ![Throughput](images/cell1_networkthroughput.png)
+> ![Throughput](images/cell1_networkthroughput.PNG)
 
 ### 2. Interference-Aware Scheduling
 Introduces heterogeneous Inter-Cell Interference (ICI). The optimizer adapts by allocating disproportionately higher power to users facing severe interference, showcasing a resilient response to degraded channel environments.
@@ -59,7 +59,7 @@ Transitions from a centralized solver to a decentralized, iterative approach. By
 > *(Replace the path below with your actual image file path)*
 > 
 > ![Dual Decomposition Convergence](images/cell3_dual_decomposition.png)
-> ![Evolution of Shadow Price](images/cell3_shadowprice.png)
+> ![Evolution of Shadow Price](images/cell3_shadowprice.PNG)
 
 ---
 
