@@ -71,7 +71,7 @@ Ensure you have Python 3.8+ installed. The primary dependencies are `numpy`, `ma
 ### Setup
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YourUsername/resilient-5G-power-allocation.git](https://github.com/YourUsername/resilient-5G-power-allocation.git)
+   git clone https://github.com/[YourUsername]/resilient-5G-power-allocation.git
    cd resilient-5G-power-allocation
    ```
 2. Install the required packages:
